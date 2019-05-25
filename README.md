@@ -3,8 +3,6 @@ Welcome to [ITABits](http://www.itabits.com.br/)!
 
 Here's a little project I've made for announce new members of a group I'm participating in college.
 
-Feel free to use as you like, all code is here on GitHub.
-
 # Assets
 Used assets by [Kenney](https://www.kenney.nl/):
 - Art
