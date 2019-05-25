@@ -13,7 +13,7 @@ Music by me (authoral).
 ## Code
 Addapted from [Space Shooter Unity's tutorial](https://unity3d.com/pt/learn/tutorials/s/space-shooter-tutorial).
 
-## How-to-use
+## How-to-use (quickly)
 If you'd like to use this little game as a welcoming mensage as I have used to, just download all the project, open it on unity and change the Text field on [GameController.cs](https://github.com/chicomcastro/Space-Welcome/blob/master/Assets/GameController.cs) in the Editor.
 
 ## Controls
